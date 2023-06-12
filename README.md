@@ -87,4 +87,6 @@ Below are some challenges I encountered during the project:
 - In addition to these challenges, the process of creating a clean and efficient dashboard demanded significant time and effort. Designing the layout, optimizing the visual arrangement, adjusting labels, legends, and filters, and ensuring a seamless user experience required meticulous attention to detail and iteration.
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time, I would focus on creating more charts and conducting additional experiments to extract further insights from the data.
+
+(And maybe I would like to continue to work on Option 1 to solve it)
