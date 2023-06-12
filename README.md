@@ -29,7 +29,7 @@ I created the following visualizations in order:
 
 4. I created a heatmap to visualize the number of records. This provides an overview of the density or concentration of records across different areas or categories.
 
-5. I created a visualization showing the number of beds based on room type. This helps understand the distribution of bed counts for different types of rooms.
+5. I created a visualization showing the percentage of number of beds based on room type. This helps understand the distribution of bed counts for different types of rooms.
 
 ### Step 3
 Lastly, I created a dashboard that combines all the above charts. 
@@ -70,10 +70,9 @@ Based on the visualization charts I have created, there are some questions that 
 - Can we identify any spatial patterns or density of records across different regions or categories?
 - Which areas or categories have the highest and lowest number of records?
 
-5. Number of beds based on room type:
-- How does the distribution of bed counts vary across different types of rooms?
+5. Percentage of number of beds based on room type:
+- How does the distribution of percentage of beds vary across different types of rooms?
 - Which room types tend to have more beds on average?
-- Are there any room types that consistently have a higher or lower number of beds?
 
 ## Challenges 
 Below are some challenges I encountered during the project:
